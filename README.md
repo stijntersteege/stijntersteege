@@ -1,5 +1,5 @@
 # Hello World! 👋🏻
-Hi, I’m Stijn. I'm passionate about helping people by designing and developing digital products 🚀
+Hi, I’m Stijn. I'm passionate about helping people by turning complex problems into simple, beautiful and intuitive software and websites 🚀
 
 My journey started about 6 years ago, in which I've collaborated with talented people and have done great projects for startups and several companies with over 150+ employees.
 
