@@ -7,6 +7,7 @@ I like a challenge, which is why I regularly try out new programming languages a
 
 # Projects
 - [Personal website](https://www.stijntersteege.com)
+- [Budgetr - Budgeting App](https://budgetr.stijntersteege.com/)
 - [KeeMate - Password Generator](https://keemate.netlify.app/)
 
 # Tech Stack
