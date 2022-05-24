@@ -1,7 +1,7 @@
 # Hello World! 👋🏻
 Hi, I’m Stijn. I'm passionate about helping people by turning complex problems into simple, beautiful and intuitive software and websites 🚀
 
-My journey started about 6 years ago, in which I've collaborated with talented people and have done great projects for startups and several companies with over 150+ employees.
+My journey started about 6 years ago, in which I've collaborated with talented people and have done great projects for startups and several companies with over 250+ employees.
 
 I like a challenge, which is why I regularly try out new programming languages and techniques. Feel free to take a look at the public projects on my GitHub profile.
 
